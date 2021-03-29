@@ -1,0 +1,16 @@
+{
+    "name": "luda/composer_projet",
+    "description": "training projet",
+    "authors": [
+        {
+            "name": "luda",
+            "email": "liudmyla12@yahoo.fr"
+        }
+    ],
+    "require": {},
+        "autoload":{
+            "psr-4":{"App\\": "src/"}
+        
+    }
+   
+}
